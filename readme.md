@@ -592,15 +592,15 @@ Complete website.
 <details> 
   <summary>Website sketches</summary>
 
-![Test Image 1](website/8.png)
+![Test Image 1](website/8.PNG)
 
-![Test Image 1](website/9.png)
+![Test Image 1](website/9.PNG)
 
-![Test Image 1](website/12.png)
+![Test Image 1](website/12.PNG)
 
-![Test Image 1](website/10.png)
+![Test Image 1](website/10.PNG)
 
-![Test Image 1](website/11.png)
+![Test Image 1](website/11.PNG)
 
 
 
