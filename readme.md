@@ -45,6 +45,97 @@ Vital is a magazine focused on experimental electronic music. It started in 1987
 
 Main part of our research is interview with author of VITAL Frans De Waard recorded on 11th March 2020 in Nijmegen. In the interview he talks about background of the magazine, his life and many other things regarding the magazine itself. You can find the transcribed interview below.
 
+
+
+<details> 
+  <summary>Notes on research process</summary>
+
+### ??????? Constructing a realm of artefacts:
+
+- Frans talks about the master-copy and that every distrubitor will get only one copy - so called master-copy
+
+- We want to create a digital alternative containing the concept of master-copy – **torrent – means of replication – spread the virus**
+
+- In order to create a torrent we need to digitalise the magazine:
+
+  - Extract the essential components: text, visuals, music (no link to it in the printed magazines)
+  - Find a system to re-map the magazine so that we exclude the possibility of reading – we almost don't read today through the whole text – what about the future – language won't be the same – maybe reading is obsolete? –  how do we emphasise the most important information? – where do we encode the music? – what is the browsing flow? – is there spoken word or are the letters transcoded – is the music transcoded within the correspondent image of a label? – what is the tool for browsing this master–copy?
+
+  ------
+
+  ------
+
+- We decided to concentrate on the **first 10 issues** which are published in the time spam of almost **3 years - 1987-1989**
+
+- In this artefact we want to cover the social context in which this magazine exists and it maybe would go together with the main body of mastercopy of the torrent or maybe – idea initial maybe map out – guidance
+
+??????? QUESTION?
+
+MASTERCOPY - TORRENT -
+
+- How to automate correction of OCR?
+- How to create new not standard tools for designing?
+- How to work with the graphics from the magazine?
+- How to encode information in the graphics?
+- USB DEADROP - tactics of distribution
+- How to create a printable website?
+- How to deal with situation of pandemic and how to limit the physical artefacts we envision to digital means?
+
+https://www.instagram.com/p/BzqBbTpCzs7/
+
+engrave links for the torrents that contain sth
+
+
+
+## Info on Frans
+
+- People he collaborates with in music projects: Wieman, Scott Foust, Roe,  Wouter Jaspers
+- thinking that vw is a platform for pre-auditioning for distribution at another label Staalplaat
+- Time changes perception.
+- the Wire - publication from the same type as VITAL
+
+
+
+Questions for Frans De Waard
+
+
+
+How and when you started to make the magazine?
+
+What was the scene and the community like at this time?
+
+Can the magazine be categorised as a reaction to a social phenomenon?
+
+Who were the subscribers of the first printed issues?
+
+Did it get popular outside of the Netherlands?
+
+Did you make any conscious design decisions?
+
+Were you designing it yourself or was there somebody else involved?
+
+How did you choose typefaces for headlines?
+
+How did you get the different images/graphics that are inside? Did you cut it out or scan it?
+
+How was the magazine assembled and produced in general?
+
+Did you use typewriter?
+
+Where were you printing? Where did you get the paper?
+
+Can you say something more about the mastercopy and about the distribution and no copyright aspect of vital?
+
+Do you still have the original mailing list?
+
+How did you promote the magazine?
+
+Do you think that the digital version continues containing the idea of master-copy?
+
+How was nijmegen in the period 1987-1992?
+
+</detai>
+
 <details> 
   <summary>Interview audio</summary>
 
@@ -836,11 +927,57 @@ This environment will be accesible via website.
 
 
 
-# Questions and problems
+# Feedback and Questions
 
 Before the COVID–19 situation started we wanted to make physical transcodings, which would create physical environment. It is the life work of someone and creating a physical/ tangible space transcodes the paper magazine into more immersive experience as it is for the person making it. By making this environment we wanted to connect the viewer/listener more closely to the person who is committing his life to creating this magazine.
 
 Now the task is to transform this environment into digital space. 
 
 
+
+<details> 
+  <summary>Feedback</summary>
+
+- separate this things so that is not complicated
+- set for instructions  - take into account that you are organising it as a set of instructions - look at the one of ralph. Look at other readmes or wikipedia pages. architecture of information and how to create structures for different types of information.
+- content of music - playlist - do you want a tool for that or - digital tool with martijn;
+- reason for things to describe this things before - practical as well as conceptual - oh yes i have 4 transcodings - somethings should be quick somethings will take more time- is there a role for a digital tool and what is the purpose of that
+- extract of visual material - what you have there is an asset i dont know how many years - it should not take such a long time - what form of quick reproduction can i use
+- for next week organise a bit and make clear different parts and that also we make some kind of decisions about it we already
+- simple tool form of creating - number of different css based on the types of printer - reformat and restyle the digital content;
+- 
+- list of instructions for people to make certain objects at home / make a website collection of what people make?
+- next step: making a playlist embedding it into a website / start making a poster for hover
+- give and take
+- pattents!!!!!!!!!!!!! - list of instructions
+- audio with html you can play on hover
+- open source
+- http://osp.kitchen/tools/html2print/
+- website platform to collect all the different objects
+- 
+- making the playlist , building website
+
+13.04
+
+- make more clear read me
+- keep in mind that the perosn that arrives on this page has no information what he is doing - make an introduction - include an image - look at wikipedia page - where and how to deal with your links and references - becomes a way of the hyper text - link to a footnote or a link to another side
+- transcoding one, transcoding two architecture of information - title for the two different transcodings - what is the problem what u are trying to adress and then tools becomes a subheading - libraries
+- way in which people digitize comix or manga - look at manga sites for reading - versus the example of something more for ebook - workwie what makes sense
+- in what is he printing and what format he is writing - standard for each a4 - how long would i take to do this for one issues - versus ocr where you have more purely digital version and then you write a code - pure text information with print css lirbary - so how it will be sent to the printer - is the idea of digitizing the reading experience - print newspaper way different than the screen newspaper
+- ocr version not visible in the browser - but then if you want to make your own print - is taking the ocr data
+  - embeded pdf reader - reformating the original format of the magazine - original magazine is portrait and the screen is landscape
+  - loook at eflux closely
+  - do something with the interview and how to format it
+  - sedonc sketch how it fits in kind of formatting - clear how to interact with it - think of the formar!!! - chatroulette - randomly jumping into different things -pitchfork
+  - THINK ABOUT FORMATTING!!!! MECHANICS OF RANDOMISATION - do you link this to an issue - click it and takes it on that review - make stronger connections - making an etiquette or linking pages
+  - interview as an intro
+  - library of indexing the pages - open source - framework of wikipedia open source - look at it!!!!
+  - if you have a specific band it takes you to a specific outside website
+  - browser sketch for the printing part
+  - next week discuss with martijn
+  - find a food web
+    - torrent - distribution torrenting is fine - linked to whatever u decide about the reading torrent - small research specific torrent websites for - where and how you advertise this - vkay - soulseek - all different kind of places it can go
+  - 
+
+</details>
 
