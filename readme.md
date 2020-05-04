@@ -619,41 +619,41 @@ Same as **TOOL #1** for getting the scans. Then we extracted and edited all the 
 
 Coup de grace
 
-De fabriek
-
-Lieutenant Caramel
-
-Big city orchestra
-
-La Sonorité Jaune & The Haters
-
-Merz
-
-Putrefier
-
-Midas Tapes Label (THU20 etc.)
-
-Kapotte Muziek
-
 https://www.youtube.com/watch?v=IfFmpapwIXw
 
 https://www.youtube.com/watch?v=Z17B8C4yF9E
 
+De fabriek
+
 https://www.youtube.com/watch?v=tZfl2RSs9nk
+
+Lieutenant Caramel
 
 https://www.youtube.com/watch?v=fvVVhrsnAq0
 
 https://www.youtube.com/watch?v=CLGlVkrnQHg
 
+Big city orchestra
+
 https://www.youtube.com/watch?v=EdENJ6W2zUg
+
+La Sonorité Jaune & The Haters
 
 https://www.youtube.com/watch?v=4q_XOZzJkyE&list=PLAF_TXnSfGd_OIhx95Af7EajsLnr954Vn&index=2
 
+Merz
+
 https://www.youtube.com/watch?v=CKjZF3NqecE
+
+Putrefier
 
 https://www.youtube.com/watch?v=UFtuRal52pM
 
+Midas Tapes Label (THU20 etc.)
+
 https://www.youtube.com/watch?v=2i2B8kmsyTA
+
+Kapotte Muziek
 
 https://www.youtube.com/watch?v=bwijzIZPGJ0
 
