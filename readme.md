@@ -787,6 +787,8 @@ Complete website.
 
 
 
+</details>
+
 # Mastercopy and distribution
 
 Reproduction and distribution was and still is very important part of the magazine concept. The original version was sent to subscribers via post. These people received a so called **Mastercopy** and were encouraged to continue distributing the magazine by making copies of the Mastercopy. Today Vital is sent to subscribers via e–mail.
