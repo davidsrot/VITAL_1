@@ -1,4 +1,4 @@
-![](/Users/davidsrot/Documents/KABK WORK/ IMD/Screenshot 2020-05-03 at 17.04.14.png)
+![Test Image 1](1.png)
 
 # VITAL magazine transcoding
 
