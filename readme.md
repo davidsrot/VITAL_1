@@ -2,7 +2,24 @@
 
 # VITAL magazine transcoding
 
-[TOC]
+- [VITAL magazine transcoding](#vital-magazine-transcoding)
+- [Artefact: What is VITAL](#artefact--what-is-vital)
+    + [Metadata](#metadata)
+- [Research](#research)
+- [Transcoding](#transcoding)
+    + [TOOL 1:](#tool-1-)
+      - [Description](#description)
+      - [Methods](#methods)
+      - [Results](#results)
+    + [TOOL 2:](#tool-2-)
+      - [Description](#description-1)
+      - [Methods](#methods-1)
+      - [Results](#results-1)
+- [Mastercopy – Distribution](#mastercopy---distribution)
+- [Outcomes](#outcomes)
+      - [Outcome links](#outcome-links)
+- [Bibliography/References](#bibliography-references)
+- [Questions/problems](#questions-problems)
 
 # Artefact: What is VITAL
 
@@ -29,10 +46,17 @@ Main part of our research is interview with author of VITAL Frans De Waard recor
 
 
 
-```
-<details>
-  <summary>Click to expand!</summary>
+```html
+<details><summary>CLICK ME</summary>
+<p>
 
+#### yes, even hidden code blocks!
+
+​```python
+print("hello world!")
+​```
+
+</p>
 </details>
 ```
 
@@ -58,7 +82,7 @@ This environment will be accesible via website that will consist of three main p
 
 
 
-### TOOL #1 : 
+### TOOL 1: 
 
 #### Description
 
@@ -74,7 +98,7 @@ Here will be a link to the finished website.
 
 
 
-### TOOL #2 : 
+### TOOL 2: 
 
 #### Description
 
