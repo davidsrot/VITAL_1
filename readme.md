@@ -489,7 +489,7 @@ We decided to concentrate on the **first 10 issues** which are published in the 
 
   
 
-This environment will be accesible via website that will consist of three main parts:
+This environment will be accesible via website that will consist of three main parts (2 tools and the interview)
 
 
 
