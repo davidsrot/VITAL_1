@@ -797,7 +797,7 @@ Complete website.
 <details> 
   <summary>Website sketches</summary>
 
-![Test Image 1](website/7.png)
+![Test Image 1](website/7.PNG)
 
 </details>
 
