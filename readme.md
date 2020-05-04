@@ -977,7 +977,6 @@ Now the task is to transform this environment into digital space.
   - next week discuss with martijn
   - find a food web
     - torrent - distribution torrenting is fine - linked to whatever u decide about the reading torrent - small research specific torrent websites for - where and how you advertise this - vkay - soulseek - all different kind of places it can go
-  - 
 
 </details>
 
