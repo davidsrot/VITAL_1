@@ -134,7 +134,7 @@ Do you think that the digital version continues containing the idea of master-co
 
 How was nijmegen in the period 1987-1992?
 
-</detai>
+</detais>
 
 <details> 
   <summary>Interview audio</summary>
