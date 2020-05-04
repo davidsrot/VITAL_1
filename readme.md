@@ -566,9 +566,22 @@ NO COPYRIGHT PUBLICATION REPRINT NOW VITAL Published by: Frans de Waard - Opaals
 
 #### Results
 
-Here will be a link to the finished website.
+Complete website.
 
+<details> 
+  <summary>Website sketches</summary>
 
+![Test Image 1](website/1.jpg)
+
+![Test Image 1](website/2.jpg)
+
+![Test Image 1](website/3.jpg)
+
+![Test Image 1](website/4.jpg)
+
+![Test Image 1](website/5.jpg)
+
+</details>
 
 ### TOOL Two 
 
