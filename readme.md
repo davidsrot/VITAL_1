@@ -804,7 +804,7 @@ This environment will be accesible via website.
 
 
 
-
+</details>
 
 # Bibliography and References
 
