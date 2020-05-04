@@ -49,7 +49,14 @@ Main part of our research is interview with author of VITAL Frans De Waard recor
 
 
 ```markdown
-<details><summary>stuff with *mark* **down**</summary><p>
+<details>
+	<summary>
+	
+	stuff with *mark* **down**
+	
+	</summary>
+	
+		<p>
 
 ## _formatted_ **heading** with [a](link)
 
@@ -58,7 +65,8 @@ Main part of our research is interview with author of VITAL Frans De Waard recor
 ---
 
 Collapsible until here.
-</p></details>
+		</p>
+</details>
 ```
 
 
