@@ -1,4 +1,4 @@
-![Test Image 1](images/1.png)
+![Test Image 1](images/header.png)
 
 # VITAL magazine transcoding
 
