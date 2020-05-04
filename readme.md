@@ -759,7 +759,10 @@ https://www.youtube.com/watch?time_continue=1&v=f7w06_99yKc&feature=emb_title
 
 #### Results
 
-Here will be a link to the finished website.
+Complete website.
+
+<details> 
+  <summary>Website sketches</summary>
 
 
 
@@ -774,6 +777,9 @@ Reproduction and distribution was and still is very important part of the magazi
 Environment which allows you to browse the content (all the tools) and understand its origins.
 
 This environment will be accesible via website.
+
+<details> 
+  <summary>Website sketches</summary>
 
 
 
