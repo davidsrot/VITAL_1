@@ -571,6 +571,129 @@ Interactive experience which jumps the gap between the physical magazine and the
 
 Same as **TOOL #1** for getting the scans. Then we extracted and edited all the graphics with photoshop. First we searched for the music in [discogs](https://www.discogs.com/) page and then on youtube and we used a Youtube to mp3 [converter](https://ytmp3.cc/en13/) to get the audio files. We created a interactive playlist in Atom coding software by using html, javascript and css.
 
+<details> 
+  <summary>MUSIC menstioned in the magazines</summary>
+
+# Issue #1 music mentioned:
+
+Coup de grace
+
+De fabriek
+
+Lieutenant Caramel
+
+Big city orchestra
+
+La Sonorité Jaune & The Haters
+
+Merz
+
+Putrefier
+
+Midas Tapes Label (THU20 etc.)
+
+Kapotte Muziek
+
+https://www.youtube.com/watch?v=IfFmpapwIXw
+
+https://www.youtube.com/watch?v=Z17B8C4yF9E
+
+https://www.youtube.com/watch?v=tZfl2RSs9nk
+
+https://www.youtube.com/watch?v=fvVVhrsnAq0
+
+https://www.youtube.com/watch?v=CLGlVkrnQHg
+
+https://www.youtube.com/watch?v=EdENJ6W2zUg
+
+https://www.youtube.com/watch?v=4q_XOZzJkyE&list=PLAF_TXnSfGd_OIhx95Af7EajsLnr954Vn&index=2
+
+https://www.youtube.com/watch?v=CKjZF3NqecE
+
+https://www.youtube.com/watch?v=UFtuRal52pM
+
+https://www.youtube.com/watch?v=2i2B8kmsyTA
+
+https://www.youtube.com/watch?v=bwijzIZPGJ0
+
+https://www.youtube.com/watch?v=Je0KQJb-7s0&t=769s
+
+
+
+### Issue number 2: page 1
+
+p16.D4
+
+https://www.youtube.com/watch?v=hRqrTOWmhZM
+
+[P16.D4 - Tionchor](https://www.discogs.com/P16D4-Tionchor/release/307014)
+
+[P16.D4 & Swimming Behavior Of The Human Infant* - Nichts Niemand Nirgends Nie!](https://www.discogs.com/P16D4-Swimming-Behavior-Of-The-Human-Infant-Nichts-Niemand-Nirgends-Nie/release/265387)
+
+*album mentioned*
+
+### Throbbing Gristle
+
+https://www.youtube.com/watch?v=5XpqCxJZdGs
+
+### Wahrnehmungen
+
+https://www.youtube.com/watch?time_continue=106&v=z2k-eckIWq4&feature=emb_title
+
+### Masse Mensch album
+
+https://www.youtube.com/watch?time_continue=1517&v=EJMuzuO5w7Y&feature=emb_title
+
+### SBOTHI
+
+https://www.youtube.com/watch?time_continue=150&v=8ySH0zTMra8&feature=emb_title
+
+### mixed band philantropist
+
+https://www.youtube.com/watch?v=C_x735iflf0
+
+### rrrecords / page 2
+
+https://www.youtube.com/watch?time_continue=52&v=ORe-Fguu-t8&feature=emb_title
+
+[Various - 6 x 10 = 60 Vol. 1 (* Int. Comp.Cassette*)](https://www.discogs.com/Various-6-x-10-60-Vol-1--Int-CompCassette/release/1442145)
+
+### Asmus Tietchens – Nachststuke – BIOTOP – Spateuroapa – In die nacht – Lilita
+
+https://www.youtube.com/watch?v=bU5yHsPTV38
+
+https://www.youtube.com/watch?v=pbhaf7_MdUQ
+
+https://www.youtube.com/watch?v=4YbVXXsRQMQ
+
+### Conrad Scnitzler
+
+https://www.youtube.com/watch?v=EWVCgpzstLk
+
+### H.J. Roedelius
+
+https://www.youtube.com/watch?v=UG_3c4ZDwPw&list=PLVQyipStSl_AyLA0o4hqryNHDJ-SQAPaY
+
+### D. Moeibus
+
+[Moebius* - Tonspuren](https://www.discogs.com/Moebius-Tonspuren/master/28438)
+
+https://www.youtube.com/watch?time_continue=48&v=_Q_Zf8QlGOU&feature=emb_title
+
+### Cluster & Eno
+
+https://www.youtube.com/watch?v=QnvHEcIWNws
+
+### Liliental
+
+https://www.youtube.com/watch?time_continue=1&v=f7w06_99yKc&feature=emb_title
+
+### Jardin au Fou – Peter Bauman – egg label
+
+[Roedelius* - Jardin Au Fou](https://www.discogs.com/Roedelius-Jardin-Au-Fou/release/460766)
+
+</details>
+
 #### Results
 
 Here will be a link to the finished website.
