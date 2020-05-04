@@ -28,9 +28,12 @@ Main part of our research is interview with author of VITAL Frans De Waard recor
 
 
 
+
 ```
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand!
+  
+  </summary>
   
   ## Heading
   1. A numbered
@@ -39,6 +42,8 @@ Main part of our research is interview with author of VITAL Frans De Waard recor
      * Sub bullets
 </details>
 ```
+
+
 
 
 
