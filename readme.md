@@ -48,18 +48,17 @@ Main part of our research is interview with author of VITAL Frans De Waard recor
 
 
 
-```html
-<details><summary>CLICK ME</summary>
-<p>
+```markdown
+<details><summary>stuff with *mark* **down**</summary><p>
 
-#### yes, even hidden code blocks!
+## _formatted_ **heading** with [a](link)
 
-​```python
-print("hello world!")
-​```
+---
+{{standard 3-backtick code block omitted from here due to escaping issues}}
+---
 
-</p>
-</details>
+Collapsible until here.
+</p></details>
 ```
 
 
