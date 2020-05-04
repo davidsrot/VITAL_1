@@ -571,6 +571,47 @@ Interactive experience which jumps the gap between the physical magazine and the
 
 Same as **TOOL #1** for getting the scans. Then we extracted and edited all the graphics with photoshop. First we searched for the music in [discogs](https://www.discogs.com/) page and then on youtube and we used a Youtube to mp3 [converter](https://ytmp3.cc/en13/) to get the audio files. We created a interactive playlist in Atom coding software by using html, javascript and css.
 
+
+
+<details> 
+  <summary>Graphics and typography from the magazine</summary>
+
+![Test Image 1](graphics/1.jpg)
+
+![Test Image 1](graphics/2.jpg)
+
+
+
+![Test Image 1](graphics/3.jpg)
+
+
+
+![Test Image 1](graphics/4.jpg)
+
+![Test Image 1](graphics/5.png)
+
+![Test Image 1](graphics/6.png)
+
+![Test Image 1](graphics/7.png)
+
+![Test Image 1](graphics/13.png)
+
+![Test Image 1](graphics/15.png)
+
+![Test Image 1](graphics/23.jpg)
+
+![Test Image 1](graphics/26.jpg)
+
+![Test Image 1](graphics/27.jpg)
+
+![Test Image 1](graphics/28.jpg)
+
+![Test Image 1](graphics/29.jpg)
+
+![Test Image 1](graphics/31.jpg)
+
+</details>
+
 <details> 
   <summary>MUSIC mentioned in the magazines</summary>
 
