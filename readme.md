@@ -18,8 +18,8 @@
 - [Mastercopy – Distribution](#mastercopy---distribution)
 - [Outcomes](#outcomes)
       - [Outcome links](#outcome-links)
-- [Bibliography/References](#bibliography-references)
-- [Questions/problems](#questions-problems)
+- [Bibliography/References](#bibliography/references)
+- [Questions/problems](#questions/problems)
 
 # Artefact: What is VITAL
 
