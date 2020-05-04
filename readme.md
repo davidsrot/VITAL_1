@@ -502,7 +502,13 @@ Printing tool for the viewers of the website to be able to reproduce the physica
 <details> 
   <summary>Vital scans</summary>
 
+Link for all 10 scanned issues
+
+https://www.notion.so/54f8f811fb7c48d6aa27dc2ed6587548?v=ad90e2e23bea4aa78846d3977b457fbf
+
 ![Test Image 1](scans/1.png)
+
+
 
 ![Test Image 1](scans/2.png)
 
