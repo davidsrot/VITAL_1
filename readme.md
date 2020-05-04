@@ -3,25 +3,27 @@
 # VITAL magazine transcoding
 
 - [VITAL magazine transcoding](#vital-magazine-transcoding)
-- [Artefact: What is VITAL](#artefact--what-is-vital)
+- [Artefact What is VITAL](#artefact-what-is-vital)
     + [Metadata](#metadata)
 - [Research](#research)
 - [Transcoding](#transcoding)
-    + [TOOL 1:](#tool-1-)
+    + [TOOL One](#tool-one)
       - [Description](#description)
       - [Methods](#methods)
       - [Results](#results)
-    + [TOOL 2:](#tool-2-)
+    + [TOOL Two](#tool-two)
       - [Description](#description-1)
       - [Methods](#methods-1)
       - [Results](#results-1)
-- [Mastercopy – Distribution](#mastercopy---distribution)
+- [Mastercopy and distribution](#mastercopy-and-distribution)
 - [Outcomes](#outcomes)
       - [Outcome links](#outcome-links)
-- [Bibliography/References](#bibliography/references)
-- [Questions/problems](#questions/problems)
+- [Bibliography and References](#bibliography-and-references)
+- [Questions and problems](#questions-and-problems)
 
-# Artefact: What is VITAL
+
+
+# Artefact What is VITAL
 
 Vital is a magazine focused on experimental electronic music. It started in 1987 as magazine on paper. It's simple xeroxed form ensured a free copyright and everybody was encouraged to make copies and distribute them freely. Up until 1995 44 issues were made and with the arrival of the Internet, Vital changed into a pure e-mail review newsletter and since then it appears weekly. Still as a free service and still without copyright. [Here](http://vitalweekly.net/) is the current vital website. Some of the issues are also archived in [IISG Amsterdam](https://hdl.handle.net/10622/B243EE91-F43C-4C88-9B1D-9E346CA715BA).
 
@@ -82,7 +84,7 @@ This environment will be accesible via website that will consist of three main p
 
 
 
-### TOOL 1: 
+### TOOL One
 
 #### Description
 
@@ -98,7 +100,7 @@ Here will be a link to the finished website.
 
 
 
-### TOOL 2: 
+### TOOL Two 
 
 #### Description
 
@@ -114,7 +116,7 @@ Here will be a link to the finished website.
 
 
 
-# Mastercopy – Distribution
+# Mastercopy and distribution
 
 Reproduction and distribution was and still is very important part of the magazine concept. The original version was sent to subscribers via post. These people received a so called **Mastercopy** and were encouraged to continue distributing the magazine by making copies of the Mastercopy. Today Vital is sent to subscribers via e–mail.
 
@@ -128,7 +130,7 @@ Reproduction and distribution was and still is very important part of the magazi
 
 
 
-# Bibliography/References
+# Bibliography and References
 
 [The Rosetta project](https://rosettaproject.org/about/)
 
@@ -138,7 +140,7 @@ Reproduction and distribution was and still is very important part of the magazi
 
 
 
-# Questions/problems
+# Questions and problems
 
 Before the COVID–19 situation started we wanted to make physical transcodings, which would create physical environment. It is the life work of someone and creating a physical/ tangible space transcodes the paper magazine into more immersive experience as it is for the person making it. By making this environment we wanted to connect the viewer/listener more closely to the person who is committing his life to creating this magazine.
 
