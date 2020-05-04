@@ -592,6 +592,18 @@ Complete website.
 <details> 
   <summary>Website sketches</summary>
 
+![Test Image 1](website/8.png)
+
+![Test Image 1](website/9.png)
+
+![Test Image 1](website/12.png)
+
+![Test Image 1](website/10.png)
+
+![Test Image 1](website/11.png)
+
+
+
 ![Test Image 1](website/1.jpg)
 
 ![Test Image 1](website/2.jpg)
@@ -785,7 +797,7 @@ Complete website.
 <details> 
   <summary>Website sketches</summary>
 
-
+![Test Image 1](website/7.png)
 
 </details>
 
@@ -804,7 +816,7 @@ This environment will be accesible via website.
 <details> 
   <summary>Website sketches</summary>
 
-
+![Test Image 1](website/6.png)
 
 </details>
 
