@@ -758,6 +758,10 @@ Reproduction and distribution was and still is very important part of the magazi
 
 # Outcomes
 
+Environment which allows you to browse the content (all the tools) and understand its origins.
+
+This environment will be accesible via website.
+
 
 
 #### Outcome links
