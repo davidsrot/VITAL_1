@@ -26,6 +26,8 @@ Vital is a magazine focused on experimental electronic music. It started in 1987
 
 Main part of our research is interview with author of VITAL Frans De Waard recorded on 11th March 2020 in Nijmegen. In the interview he talks about background of the magazine, his life and many other things regarding the magazije itself. You can find the transcribed interview here: [interview](https://www.notion.so/interview-transcribe-6b2df57bd7154ccfa9b2070784b82857).
 
+
+
 ```
 <details>
   <summary>Click to expand!</summary>
@@ -37,6 +39,8 @@ Main part of our research is interview with author of VITAL Frans De Waard recor
      * Sub bullets
 </details>
 ```
+
+
 
 # Transcoding
 
