@@ -3,7 +3,7 @@
 # VITAL magazine transcoding
 
 - [VITAL magazine transcoding](#vital-magazine-transcoding)
-- [Artefact What is VITAL](#artefact-what-is-vital)
+- [Artefact: what is VITAL](#artefact:-what-is-vital)
     + [Metadata](#metadata)
 - [Research](#research)
 - [Transcoding](#transcoding)
@@ -21,9 +21,7 @@
 - [Bibliography and References](#bibliography-and-references)
 - [Questions and problems](#questions-and-problems)
 
-
-
-# Artefact What is VITAL
+# Artefact: what is VITAL
 
 Vital is a magazine focused on experimental electronic music. It started in 1987 as magazine on paper. It's simple xeroxed form ensured a free copyright and everybody was encouraged to make copies and distribute them freely. Up until 1995 44 issues were made and with the arrival of the Internet, Vital changed into a pure e-mail review newsletter and since then it appears weekly. Still as a free service and still without copyright. [Here](http://vitalweekly.net/) is the current vital website. Some of the issues are also archived in [IISG Amsterdam](https://hdl.handle.net/10622/B243EE91-F43C-4C88-9B1D-9E346CA715BA).
 
