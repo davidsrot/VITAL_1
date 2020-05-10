@@ -597,23 +597,23 @@ Link for all 10 scanned issues
 
 https://www.notion.so/54f8f811fb7c48d6aa27dc2ed6587548?v=ad90e2e23bea4aa78846d3977b457fbf
 
-![Test Image 1](scans/1.png)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/scans/1.png)
 
 
 
-![Test Image 1](scans/2.png)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/scans/2.png)
 
-![Test Image 1](scans/3.png)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/scans/3.png)
 
-![Test Image 1](scans/4.png)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/scans/4.png)
 
-![Test Image 1](scans/5.png)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/scans/5.png)
 
-![Test Image 1](scans/6.png)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/scans/6.png)
 
-![Test Image 1](scans/7.png)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/scans/7.png)
 
-![Test Image 1](scans/8.png)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/scans/8.png)
 
 </details>
 
@@ -689,21 +689,21 @@ Complete website.
 <details> 
   <summary>Website sketches</summary>
 
-![Test Image 1](website/8.PNG)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/8.PNG)
 
-![Test Image 1](website/9.PNG)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/9.PNG)
 
-![Test Image 1](website/12.PNG)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/12.PNG)
 
-![Test Image 1](website/10.PNG)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/10.PNG)
 
-![Test Image 1](website/11.PNG)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/11.PNG)
 
 
 
-![Test Image 1](website/1.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/1.jpg)
 
-![Test Image 1](website/2.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/2.jpg)
 
 ![Test Image 1](website/3.jpg)
 
