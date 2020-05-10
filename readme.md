@@ -705,11 +705,11 @@ Complete website.
 
 ![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/2.jpg)
 
-![Test Image 1](website/3.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/3.jpg)
 
-![Test Image 1](website/4.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/4.jpg)
 
-![Test Image 1](website/5.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/5.jpg)
 
 </details>
 
@@ -728,39 +728,39 @@ Same as **TOOL #1** for getting the scans. Then we extracted and edited all the 
 <details> 
   <summary>Graphics and typography from the magazine</summary>
 
-![Test Image 1](graphics/1.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/1.jpg)
 
-![Test Image 1](graphics/2.jpg)
-
-
-
-![Test Image 1](graphics/3.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/2.jpg)
 
 
 
-![Test Image 1](graphics/4.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/3.jpg)
 
-![Test Image 1](graphics/5.png)
 
-![Test Image 1](graphics/6.png)
 
-![Test Image 1](graphics/7.png)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/4.jpg)
 
-![Test Image 1](graphics/13.png)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/5.png)
 
-![Test Image 1](graphics/15.png)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/6.png)
 
-![Test Image 1](graphics/23.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/7.png)
 
-![Test Image 1](graphics/26.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/13.png)
 
-![Test Image 1](graphics/27.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/15.png)
 
-![Test Image 1](graphics/28.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/23.jpg)
 
-![Test Image 1](graphics/29.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/26.jpg)
 
-![Test Image 1](graphics/31.jpg)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/27.jpg)
+
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/28.jpg)
+
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/29.jpg)
+
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/graphics/31.jpg)
 
 </details>
 
@@ -894,7 +894,7 @@ Complete website.
 <details> 
   <summary>Website sketches</summary>
 
-![Test Image 1](website/7.PNG)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/7.PNG)
 
 </details>
 
@@ -913,7 +913,7 @@ This environment will be accesible via website.
 <details> 
   <summary>Website sketches</summary>
 
-![Test Image 1](website/6.png)
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/6.png)
 
 </details>
 
