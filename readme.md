@@ -1,8 +1,8 @@
 ![Test Image 1](images/header.png)
 
-# VITAL magazine transcoding
+# Too ordinary for Rewire
 
-- [VITAL magazine transcoding](#vital-magazine-transcoding)
+- [Too ordinary for Rewire](#too-ordinary-for-rewire)
 - [What is VITAL](#what-is-vital)
     + [Metadata](#metadata)
 - [Research](#research)
@@ -23,7 +23,7 @@
 
 
 
-# What is VITAL
+## What is VITAL
 
 Vital is a magazine focused on experimental electronic music. It started in 1987 as magazine on paper. It's simple xeroxed form ensured a free copyright and everybody was encouraged to make copies and distribute them freely. Up until 1995 44 issues were made and with the arrival of the Internet, Vital changed into a pure e-mail review newsletter and since then it appears weekly. Still as a free service and still without copyright. [Here](http://vitalweekly.net/) is the current vital website. Some of the issues are also archived in [IISG Amsterdam](https://hdl.handle.net/10622/B243EE91-F43C-4C88-9B1D-9E346CA715BA).
 
@@ -41,7 +41,7 @@ Vital is a magazine focused on experimental electronic music. It started in 1987
 | **Date**                      | 1987–1992                                                    |
 | ![Test Image 1](images/2.JPG) | The artefact consists of 25 printed issues of Vital magazine. The individual issues are arranged according to the issue number in a cardboard packaging which is made of two sheets of cardboard held together by two fabric ribbons. On the cardboard cover is the artefact number ZO 44301 and also text that says: VITAL 1988–1992 : 1–25 + special (1989). |
 
-# Research
+## Research
 
 Main part of our research is interview with author of VITAL Frans De Waard recorded on 11th March 2020 in Nijmegen. In the interview he talks about background of the magazine, his life and many other things regarding the magazine itself. You can find the transcribed interview below.
 
@@ -87,7 +87,7 @@ engrave links for the torrents that contain sth
 
 
 
-## Info on Frans
+### Info on Frans
 
 - People he collaborates with in music projects: Wieman, Scott Foust, Roe,  Wouter Jaspers
 - thinking that vw is a platform for pre-auditioning for distribution at another label Staalplaat
@@ -566,7 +566,7 @@ Well Den Haag.. It has also been a while since I played in Den Haag. I don't mis
 
 
 
-# Transcoding
+## Transcoding
 
 We decided to concentrate on the **first 10 issues** which are published in the time span of almost **3 years – 1987–1989**. We want to create a digital alternative containing the magazine itself + all other contents that were difficult to access at the time for the readers – mainly the reviewed music.
 
@@ -767,7 +767,7 @@ Same as **TOOL #1** for getting the scans. Then we extracted and edited all the 
 <details> 
   <summary>MUSIC mentioned in the magazines</summary>
 
-# Issue #1 music mentioned:
+## Issue #1 music mentioned:
 
 Coup de grace
 
@@ -813,7 +813,7 @@ https://www.youtube.com/watch?v=Je0KQJb-7s0&t=769s
 
 
 
-### Issue number 2: page 1
+##### Issue number 2: page 1
 
 p16.D4
 
@@ -825,33 +825,33 @@ https://www.youtube.com/watch?v=hRqrTOWmhZM
 
 *album mentioned*
 
-### Throbbing Gristle
+##### Throbbing Gristle
 
 https://www.youtube.com/watch?v=5XpqCxJZdGs
 
-### Wahrnehmungen
+##### Wahrnehmungen
 
 https://www.youtube.com/watch?time_continue=106&v=z2k-eckIWq4&feature=emb_title
 
-### Masse Mensch album
+##### Masse Mensch album
 
 https://www.youtube.com/watch?time_continue=1517&v=EJMuzuO5w7Y&feature=emb_title
 
-### SBOTHI
+##### SBOTHI
 
 https://www.youtube.com/watch?time_continue=150&v=8ySH0zTMra8&feature=emb_title
 
-### mixed band philantropist
+##### mixed band philantropist
 
 https://www.youtube.com/watch?v=C_x735iflf0
 
-### rrrecords / page 2
+##### rrrecords / page 2
 
 https://www.youtube.com/watch?time_continue=52&v=ORe-Fguu-t8&feature=emb_title
 
 [Various - 6 x 10 = 60 Vol. 1 (* Int. Comp.Cassette*)](https://www.discogs.com/Various-6-x-10-60-Vol-1--Int-CompCassette/release/1442145)
 
-### Asmus Tietchens – Nachststuke – BIOTOP – Spateuroapa – In die nacht – Lilita
+##### Asmus Tietchens – Nachststuke – BIOTOP – Spateuroapa – In die nacht – Lilita
 
 https://www.youtube.com/watch?v=bU5yHsPTV38
 
@@ -859,29 +859,29 @@ https://www.youtube.com/watch?v=pbhaf7_MdUQ
 
 https://www.youtube.com/watch?v=4YbVXXsRQMQ
 
-### Conrad Scnitzler
+##### Conrad Scnitzler
 
 https://www.youtube.com/watch?v=EWVCgpzstLk
 
-### H.J. Roedelius
+##### H.J. Roedelius
 
 https://www.youtube.com/watch?v=UG_3c4ZDwPw&list=PLVQyipStSl_AyLA0o4hqryNHDJ-SQAPaY
 
-### D. Moeibus
+##### D. Moeibus
 
 [Moebius* - Tonspuren](https://www.discogs.com/Moebius-Tonspuren/master/28438)
 
 https://www.youtube.com/watch?time_continue=48&v=_Q_Zf8QlGOU&feature=emb_title
 
-### Cluster & Eno
+##### Cluster & Eno
 
 https://www.youtube.com/watch?v=QnvHEcIWNws
 
-### Liliental
+##### Liliental
 
 https://www.youtube.com/watch?time_continue=1&v=f7w06_99yKc&feature=emb_title
 
-### Jardin au Fou – Peter Bauman – egg label
+##### Jardin au Fou – Peter Bauman – egg label
 
 [Roedelius* - Jardin Au Fou](https://www.discogs.com/Roedelius-Jardin-Au-Fou/release/460766)
 
@@ -898,13 +898,13 @@ Complete website.
 
 </details>
 
-# Mastercopy and distribution
+## Mastercopy and distribution
 
 Reproduction and distribution was and still is very important part of the magazine concept. The original version was sent to subscribers via post. These people received a so called **Mastercopy** and were encouraged to continue distributing the magazine by making copies of the Mastercopy. Today Vital is sent to subscribers via e–mail.
 
 - We want to create a distribution network by using torrents – a peer-to-peer sharing system. Once we complete our transcodings, we want to package them into one file and make them available to everyone via torrent. Thus, maintaining the principle of a master copy. Everyone will become part of the chain.
 
-# Outcomes
+## Outcomes
 
 Environment which allows you to browse the content (all the tools) and understand its origins.
 
@@ -917,7 +917,7 @@ This environment will be accesible via website.
 
 </details>
 
-# Bibliography and References
+## Bibliography and References
 
 [The Rosetta project](https://rosettaproject.org/about/)
 
@@ -927,7 +927,7 @@ This environment will be accesible via website.
 
 
 
-# Feedback and Questions
+## Feedback and Questions
 
 Before the COVID–19 situation started we wanted to make physical transcodings, which would create physical environment. It is the life work of someone and creating a physical/ tangible space transcodes the paper magazine into more immersive experience as it is for the person making it. By making this environment we wanted to connect the viewer/listener more closely to the person who is committing his life to creating this magazine.
 
