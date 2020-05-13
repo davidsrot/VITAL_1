@@ -39,7 +39,7 @@ Vital is a magazine focused on experimental electronic music. It started in 1987
 | **Medium**                                                   | Printed matter                                               |
 | **Materials**                                                | Paper                                                        |
 | **Date**                                                     | 1987–1992                                                    |
-| ![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/images/2.JPG) | The artefact consists of 25 printed issues of Vital magazine. The individual issues are arranged according to the issue number in a cardboard packaging which is made of two sheets of cardboard held together by two fabric ribbons. On the cardboard cover is the artefact number ZO 44301 and also text that says: VITAL 1988–1992 : 1–25 + special (1989). |
+| ![Test Image 1](https://raw.githubusercontent.com/davidsrot/VITAL_1/master/images/2.JPG) | The artefact consists of 25 printed issues of Vital magazine. The individual issues are arranged according to the issue number in a cardboard packaging which is made of two sheets of cardboard held together by two fabric ribbons. On the cardboard cover is the artefact number ZO 44301 and also text that says: VITAL 1988–1992 : 1–25 + special (1989). |
 
 ## Research
 
