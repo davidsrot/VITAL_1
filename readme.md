@@ -912,8 +912,19 @@ This environment will be accesible via website.
 
 <details> 
   <summary>Website sketches</summary>
-
 ![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/6.png)
+
+![Test Image 1](https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/40.png)
+
+
+
+![Test Image 1](https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/41.png)
+
+![Test Image 1](https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/42.png)
+
+![Test Image 1](https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/43.png)
+
+![Test Image 1](https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/44.png)
 
 </details>
 
