@@ -2,24 +2,25 @@
 
 # Too ordinary for Rewire
 
-- [Too ordinary for Rewire](#too-ordinary-for-rewire)
-- [What is VITAL](#what-is-vital)
-    + [Metadata](#metadata)
-- [Research](#research)
-- [Transcoding](#transcoding)
-    + [TOOL One](#tool-one)
-      - [Description](#description)
-      - [Methods](#methods)
-      - [Results](#results)
-    + [TOOL Two](#tool-two)
-      - [Description](#description-1)
-      - [Methods](#methods-1)
-      - [Results](#results-1)
-- [Mastercopy and distribution](#mastercopy-and-distribution)
-- [Outcomes](#outcomes)
-      - [Outcome links](#outcome-links)
-- [Bibliography and References](#bibliography-and-references)
-- [Feedback and Questions](#feedback-and-questions)
+### Table of contents
+
+1. [Too ordinary for Rewire](#too-ordinary-for-rewire)
+2. [What is VITAL](#what-is-vital)
+   1. [Metadata](#metadata)
+3. [Research](#research)
+4. [Transcoding](#transcoding)
+5. [TOOL One](#tool-one)
+   1. [Description](#description)
+   2. [Methods](#methods)
+   3. [Results](#results)
+6. [TOOL Two](#tool-two)
+   1. [Description](#description-1)
+   2. [Methods](#methods-1)
+   3. [Results](#results-1)
+7. [Mastercopy and distribution](#mastercopy-and-distribution)
+8. [Outcomes](#outcomes)
+9. [Bibliography and References](#bibliography-and-references)
+10. [Feedback and Questions](#feedback-and-questions)
 
 
 
