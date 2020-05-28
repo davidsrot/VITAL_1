@@ -897,6 +897,8 @@ https://www.youtube.com/watch?time_continue=1&v=f7w06_99yKc&feature=emb_title
 
 Complete website.
 
+Here is link to the website: [link here](https://davidsrot.github.io/index/index.html)
+
 <img src="https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/screenshot3.png" alt="Test Image 1" style="zoom:67%;" />
 
 <details> 
