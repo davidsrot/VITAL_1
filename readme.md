@@ -51,7 +51,7 @@ Main part of our research is interview with author of VITAL Frans De Waard recor
 <details> 
   <summary>Notes on research process</summary>
 
-### ??????? Constructing a realm of artefacts:
+### Constructing a realm of artefacts:
 
 - Frans talks about the master-copy and that every distrubitor will get only one copy - so called master-copy
 
@@ -909,11 +909,16 @@ Reproduction and distribution was and still is very important part of the magazi
 
 Environment which allows you to browse the content (all the tools) and understand its origins.
 
-This environment will be accesible via website.
+This environment will be accesible via website: https://davidsrot.github.io/index/main.html
+
+![Test Image 1]()
+
+
 
 <details> 
   <summary>Website sketches</summary>
 ![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/website/6.png)
+
 
 ![Test Image 1](https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/40.png)
 
