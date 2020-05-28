@@ -908,7 +908,7 @@ Reproduction and distribution was and still is very important part of the magazi
 
 Environment which allows you to browse the content (all the tools) and understand its origins.
 
-This environment will be accesible via website: https://davidsrot.github.io/index/main.html
+This environment will be accesible via website: [link here](https://davidsrot.github.io/index/main.html)
 
 <img src="https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/screenshot1.png" alt="Test Image 1" style="zoom:67%;" />
 
