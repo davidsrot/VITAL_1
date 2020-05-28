@@ -686,6 +686,8 @@ NO COPYRIGHT PUBLICATION REPRINT NOW VITAL Published by: Frans de Waard - Opaals
 
 Complete website.
 
+<img src="https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/screenshot5.png" alt="Test Image 1" style="zoom:67%;" />
+
 <details> 
   <summary>Website sketches</summary>
 
@@ -891,6 +893,8 @@ https://www.youtube.com/watch?time_continue=1&v=f7w06_99yKc&feature=emb_title
 
 Complete website.
 
+<img src="https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/screenshot3.png" alt="Test Image 1" style="zoom:67%;" />
+
 <details> 
   <summary>Website sketches</summary>
 
@@ -912,7 +916,7 @@ This environment will be accesible via website: [link here](https://davidsrot.gi
 
 <img src="https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/screenshot1.png" alt="Test Image 1" style="zoom:67%;" />
 
-
+<img src="https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/screenshot2.png" alt="Test Image 1" style="zoom:67%;" />
 
 <details> 
   <summary>Website sketches</summary>
