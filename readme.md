@@ -590,6 +590,8 @@ This environment will be accesible via website that will consist of three main p
 
 Printing tool for the viewers of the website to be able to reproduce the physical magazine at home, and spread it further to other potential viewers. Here is [link](https://www.notion.so/VITAL-ISSUES-b97881dc1241496485d10541d3aacde2) to pictures of physical magazine, which will be used for the printing tool. Some of the scans you can see below.
 
+![Test Image 1](https://github.com/davidsrot/VITAL_1/blob/master/scans/1.png)
+
 <details> 
   <summary>Vital scans</summary>
 
