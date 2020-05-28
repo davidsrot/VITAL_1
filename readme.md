@@ -688,6 +688,8 @@ NO COPYRIGHT PUBLICATION REPRINT NOW VITAL Published by: Frans de Waard - Opaals
 
 Complete website.
 
+Here is link for the print tool: [link here](https://vital.yabrasheva.info)
+
 <img src="https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/screenshot5.png" alt="Test Image 1" style="zoom:67%;" />
 
 <details> 
