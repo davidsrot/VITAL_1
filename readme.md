@@ -910,7 +910,7 @@ Environment which allows you to browse the content (all the tools) and understan
 
 This environment will be accesible via website: https://davidsrot.github.io/index/main.html
 
-![Test Image 1]()
+<img src="https://raw.githubusercontent.com/davidsrot/VITAL_1/master/website/screenshot1.png" alt="Test Image 1" style="zoom:67%;" />
 
 
 
